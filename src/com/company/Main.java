@@ -10,7 +10,7 @@ public class Main {
     /**
      * вызов метода (кол-во раз)
      */
-    private static int N = 2000;
+    static int N = 70000;
 
     public static void main(String[] args) {
 
